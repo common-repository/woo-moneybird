@@ -1,0 +1,148 @@
+# Copyright (C) 2019 techastha
+# This file is distributed under the same license as the Integration of Moneybird for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Integration of Moneybird for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-moneybird\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-04T14:51:22+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: wcmb\n"
+
+#. Plugin Name of the plugin
+msgid "Integration of Moneybird for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://Woocommerce-moneybird.techastha.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Generate invoice using Moneybird API form WooCommerce Order."
+msgstr ""
+
+#. Author of the plugin
+msgid "techastha"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://techastha.com"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-general-settings.php:8
+#: admin/wcmb-moneybird-api-settings.php:42
+msgid "Security check"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-general-settings.php:20
+msgid "MoneyBird General Settings"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-general-settings.php:26
+msgid "Please Get Access token Process complite.<br />Go to Moneybird API setting"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-general-settings.php:36
+msgid "Moneybird Document Style"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-general-settings.php:67
+msgid "Moneybird Workflow"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:4
+#: admin/wcmb-moneybird-api-settings.php:5
+msgid "Moneybird API Setting"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:21
+msgid "Invoice"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:31
+msgid "View"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:89
+msgid "MoneyBird API Settings"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:115
+msgid "Client ID"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:118
+msgid "Enter the MoneyBird Client ID"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:123
+msgid "Client Secret ID"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:126
+msgid "Enter the MoneyBird Client secret ID"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:134
+msgid "Access Token Key"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:139
+msgid "<b>How to Create API token : </b> You can be done by logging in to your Moneybird account and visit the page  "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:139
+msgid "https://moneybird.com/user/applications/new "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:140
+msgid "<b>Note: </b> Go to Currency options and Please select your Euro (€) Currency. "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:147
+msgid "Selected Administrator"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:151
+msgid "Administrator Name: "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:154
+msgid "Administrator Id: "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:156
+msgid "Administrator Language: "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:157
+msgid "Administrator Currency: "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:158
+msgid "Administrator Country: "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:159
+msgid "Administrator Time-Zone: "
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:179
+#: admin/wcmb-moneybird-api-settings.php:185
+msgid "Get Access Tocken"
+msgstr ""
+
+#: admin/wcmb-moneybird-api-settings.php:180
+#: admin/wcmb-moneybird-api-settings.php:186
+msgid "Reset"
+msgstr ""
+
+#: woo-moneybird.php:131
+#: woo-moneybird.php:140
+msgid "Download Invoice from MoneyBird"
+msgstr ""

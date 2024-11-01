@@ -1,0 +1,43 @@
+/* inputbox width */ 
+.wcmb_clientIdWidth, .wcmb_clientSecretWidth, .wcmb_resetWidth {
+	width: 60%;
+}
+/* reset button margin*/
+#wcmb_reset{
+	margin-left: 15px;
+}
+.submit button.wcmb_resetButtonDisable {
+    display: none;
+}
+/* selectbox width */
+.textBoxWidth {
+	 width: 30%;
+}
+.Support-data p {
+    font-size: 16px;
+    margin-left: 60px;
+}
+.moneybird-img {
+	text-align: center;
+	margin-top: 40px;
+}
+.moneybird-img img {
+    height: 65%;
+    width: 75%;
+}
+.moneybird-img p {
+    font-style: italic;
+}
+.ypDownloadInvoiceButtonSection {
+	padding: 20px 0;
+}
+.ypDownloadInvoiceButtonSection a{
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.downloadInvoiceButton {
+	background-color: #3291f0;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+}
